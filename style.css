@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+    height: 100vh;
+}
+#mainTag{
+    width: 100%;
+}
+.form-select{
+    width: 250px;
+}
+.form-control{
+    width: 250px;
+}
+.form-conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    width: 80%;
+}
+.table th, .table td{
+    width: 20% !important;
+}
